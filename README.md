@@ -2,6 +2,21 @@
 
 This repo will have a code of Rubyscore Smart Contracts.
 
+## Deployed Contract Addresses
+
+### Contracts
+
+| Name | Mainnet  | Testnet                                               |
+| ---- |----------|-------------------------------------------------------|
+| Rubyscore_Achievement | 0x009DBFEe9E155766AF434ED1652CA3769B05E76f | 0x2A1000293467a221F5d4cA98F4b7912c4c9c22b3   |
+| Rubyscore_Vote | 0xbDB018e21AD1e5756853fe008793a474d329991b |                         |
+
+### Operator
+| Operator             | address(Mainnet)                           | 
+|----------------------|--------------------------------------------|
+| 0x72f46FFBd3213218137015EBCcf70bFAaF619513 | 0x009DBFEe9E155766AF434ED1652CA3769B05E76f |
+| 0x72f46FFBd3213218137015EBCcf70bFAaF619513       | 0xbDB018e21AD1e5756853fe008793a474d329991b |
+
 ## Setting project
 
 ### Install dependencies
