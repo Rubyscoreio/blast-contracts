@@ -1,6 +1,6 @@
-## Rubyscore smart contracts
+## Rubyscore Smart Contracts for Blast network
 
-This repo will have a code of Rubyscore Smart Contracts.
+This repo will have a code of Rubyscore Smart Contracts for Blast.
 
 ## Deployed Contract Addresses
 
